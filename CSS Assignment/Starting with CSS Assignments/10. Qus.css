@@ -1,0 +1,18 @@
+body {
+    background-color: darkcyan;
+}
+h1 {
+    color: #2e08d8;
+}
+#Alakh {
+    color: #2e08d8;
+    font-size: 20px;
+}
+#img:hover {
+    font-size: 100px;
+    font-weight: bold;
+}
+a:hover {
+    font-size: 50px;
+    font-weight: bold;
+}
