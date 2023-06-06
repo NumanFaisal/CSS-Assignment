@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Mirza&family=Oswald&family=Staatliches&display=swap');
+body {
+    background-color: #232c30;
+}
+.top {
+    position: sticky;top: 5px;
+    text-align: center;
+    border: 2px solid #ce5757;
+    margin-top: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #ce5757;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Mirza', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
+.main {
+    text-align: center;
+}
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orange;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Mirza', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Staatliches', cursive;    
+    font-family: 'Work Sans', sans-serif;
+}
+img {
+    border: 2px solid purple;
+    border-radius: 30px;
+    height: 250px;
+}
+.paratwo {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    text-align: start;
+    color: white;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Mirza', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 950px;
+    color: orange;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Mirza', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Staatliches', cursive;    
+    font-family: 'Work Sans', sans-serif;
+}
+.parathree {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    text-align: start;
+    color: white;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Mirza', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}

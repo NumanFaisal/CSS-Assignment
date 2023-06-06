@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Mirza&family=Staatliches&display=swap');
+* {
+    user-select: none;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Mirza', cursive;
+    font-family: 'Staatliches', cursive;
+    box-sizing: border-box;
+}
+.container {
+    border: 2px solid black;
+    float: left;
+}
+.lang-image {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 200px;
+}
+p {
+    text-align: center;
+    font:bold;
+    font-size: 20px;
+}
+.main {
+    list-style: none;
+    line-height: 30px;
+    color: blue;
+    float: left;
+    margin: 0 auto;
+   
+}
+.maintwo {
+    list-style: none;
+    color: #000000;
+    float: right;
+    margin-right: 10px;
+    
+}
+.listwo {
+    line-height: px;
+}
+.listone{
+    padding-bottom: 20px;
+}
+.list-item {
+    line-height: 20px;
+    list-style: none;
+    padding-bottom: 15px;
+}
+.list-itemtwo {
+    padding-bottom: 10px;
+}
+.list-itemthree {
+    padding-bottom: 40px;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Mirza&family=Staatliches&display=swap');
+body {
+    background-color: #252323;
+    color: azure;
+}
+.main {
+   float: left;
+   width: 900px;
+   margin-top: 150px;
+   margin-left: 50px;
+}
+.image {
+    float: right;
+   margin-top: 50px;
+}
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 15px;
+    margin-bottom: 30px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Mirza', cursive;
+    font-family: 'Staatliches', cursive;
+}
+.one {
+    justify-content: center;
+    border-radius: 10px;
+    background-color: rgb(97, 69, 221);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}

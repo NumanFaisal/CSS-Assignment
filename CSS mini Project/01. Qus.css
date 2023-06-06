@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Mirza&family=Staatliches&display=swap');
+.navbar {
+    position: relative;
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    margin-right: 50px;
+    border: 2px solid black;
+    width: 150px;
+    height: 800px;
+    text-align: center;
+    justify-content: center;
+    border-right: none;
+    border-left: none;
+    background-color: #353232;
+}
+body {
+    background-color: #000000;
+}
+.lang-image {
+    background-color: #5ea7d1;
+    width: 150px;
+    display: block;
+}
+.navitem {
+    border: 2px dashed black;
+    height: 40px;
+    text-align: center;
+    list-style: none;
+    padding-top: 10px;
+    background-color: #353232;
+    border-right: none;
+    border-left: none;
+    font-family: 'Mirza', cursive;
+    font-family: 'Staatliches', cursive;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #4848b1;
+    font-size: 20px;
+}
+.content {
+    vertical-align: top;
+    margin: auto;
+    position: static;
+    text-align: center;
+}
+.heading {
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    color: #4848b1;
+    font-size: 50px;
+    
+}
+.headingtwo {
+    padding: opx;
+    text-align: center;
+    color: #4848b1;
+    font-size: 50px;
+}
+.paraone {
+    padding-bottom: 25px;
+    padding: 10px;
+    color: white;
+    display: block;
+    text-align: justify;
+    margin-right: 50px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.paratwo {
+    padding-top: 10px;
+    color: white;
+    display: block;
+    text-align: justify;
+    margin-right: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
