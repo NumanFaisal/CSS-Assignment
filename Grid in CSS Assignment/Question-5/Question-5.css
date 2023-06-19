@@ -1,0 +1,92 @@
+*{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.menu-content{
+    display: flex;
+    width: 1450px;
+    margin-left: 30px;
+}
+.menu-image1{
+    border: solid black;
+    border-radius: 30px;
+    text-align: start;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 310px;
+}
+.menu-image2{
+    border: solid black;
+    border-radius: 30px;
+    text-align: start;
+    margin-left: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 300px;
+}
+.menu-image3{
+    border: solid black;
+    border-radius: 30px;
+    text-align: start;
+    margin-left: 170px;
+    margin-right:100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 300px;
+}
+.order-onlilne{
+    border-bottom: 1px solid black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.menu-heading{
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+}
+.menu{
+    color: darkgray;
+    padding-left: 10px;
+}
+.menu1{
+    margin-top: -10px;
+    color: darkgray;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.navigation-content{
+    display: flex;
+    background-color: #2e1818;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 1450px;
+    height: 400px;
+}
+.nav-image{
+    background-color: #2e1818;
+    margin: 50px 100px;
+    width: 300px;
+    height: 300px;
+    
+}
+.nav-link{
+    margin: 50px 100px;
+    height: 300px;
+}
+.learn{
+    margin: 50px 100px;
+    height: 300px;
+}
+.nav-heading{
+    color: white;
+    font-size: 30px;
+}
+.nav-list{
+    text-decoration: none;
+    list-style-type: none;
+    line-height: 2.5;
+    color: #754141;
+}

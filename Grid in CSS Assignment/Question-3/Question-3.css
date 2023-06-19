@@ -1,0 +1,102 @@
+*{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.nav{
+    display: grid;
+    height: 50px;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    margin-left: 450px;
+}
+.navbar>span{
+    font-size: 20px;
+    margin: 10px 50px;
+}
+.navbar>button{
+    text-decoration: none;
+    border: none;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 300px;
+    padding: 5px 80px;
+    background-color: green;
+}
+.container{
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 50% 20% 28%;
+}
+.para{
+   text-align: start;
+   margin: 100px 100px;
+   padding: 50px;
+   width: 600px;
+   height: 400px;
+}
+.para>h1{
+    font-size: 50px;
+}
+.para>button{
+    text-decoration: none;
+    border: none;
+    margin-top: 20px;
+    padding: 15px 20px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+.center{
+    position: relative;
+    z-index: 1;
+    margin-left: 60px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+.color{
+    padding-left: 100px;
+    margin-left: 100px;
+    background-color: yellow;
+    height: 730px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+.image-container{
+    display: flex;
+    margin-left: 30px;
+    width: 1450px;
+    background-color: #300808;
+}
+.bottom-box1{
+    width: 270px;
+    margin-left: 125px;
+    text-align: center;
+}
+.bottom-box2{
+    width: 270px;
+    margin-left: 200px;
+    text-align: center;
+}
+.bottom-box3{
+    width: 270px;
+    margin-left: 200px;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+p{
+    color: #5f1515;
+}
+.image{
+    margin-top: 10px;
+    height: 300px;   
+}

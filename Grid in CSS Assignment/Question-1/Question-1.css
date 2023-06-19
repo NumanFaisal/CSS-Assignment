@@ -1,0 +1,40 @@
+*{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.container{
+    border: 2px solid black;
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 50% 20% 25%;
+}
+.para{
+   text-align: start;
+   margin: 100px 100px;
+   padding: 50px;
+   width: 600px;
+   height: 400px;
+}
+.para>h1{
+    font-size: 50px;
+}
+.para>button{
+    text-decoration: none;
+    border: none;
+    margin-top: 20px;
+    padding: 15px 20px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+.center{
+    position: relative;
+    z-index: 1;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+.color{
+    padding-left: 100px;
+    margin-left: 100px;
+    background-color: yellow;
+    height: 730px;
+}
