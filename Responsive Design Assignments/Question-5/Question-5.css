@@ -1,0 +1,28 @@
+h1{
+   text-align: center;
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+}
+.center{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    
+}
+.random{
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 5px;
+}
+@media screen and (max-width: 576px) {
+    .image{
+     display: flex;
+    flex-wrap: wrap;
+    }
+    .item3,.item4,.item5,.item2{
+        display: none;
+    }
+}
