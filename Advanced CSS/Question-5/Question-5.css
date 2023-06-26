@@ -1,0 +1,18 @@
+div{
+    width: 500px;
+    height: 400px;
+    margin: 100px 0px 0px 500px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 500px;
+    height: 400px;
+    filter: blur(10px);
+}
+img:hover{
+    filter: blur(0px);
+    transition: all 0.6s ease-in;
+}

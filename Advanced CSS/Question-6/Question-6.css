@@ -1,0 +1,20 @@
+div{
+    border: 2px solid black;
+    width: 600px;
+    height: 450px;
+    margin: 100px 0px 0px 400px;
+}
+h1{
+    text-decoration: underline;
+    margin-left: 80px;
+}
+img{
+    border-radius: 30px;
+    margin-left: 50px;
+    width: 500px;
+    height: 350px;
+}
+img:hover{
+    filter: grayscale(1);
+    transition: all 1s ease;
+}

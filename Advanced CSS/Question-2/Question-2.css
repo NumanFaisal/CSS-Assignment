@@ -1,0 +1,25 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  border-radius: 30px;
+  height: 100px;
+  border: 1px solid black;
+  justify-content: space-evenly;
+  background: linear-gradient( to right, #ec96de, #ce4fce);
+  
+}
+.box {
+  text-align: center;
+}
+h1{
+  font-size: 40px;
+  color: white;
+  margin-top: 15px;
+  margin-bottom: -15px;
+}
+p{
+  color: white;
+}
